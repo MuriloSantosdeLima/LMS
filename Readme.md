@@ -1,5 +1,5 @@
 #Banco de dados
- - Necessario atualizar host, dbname, user e password.
+ - Necessario atualizar host, dbname, user e password no caminho "\LMS\src\infra\Database.php".
  - Executar arquivo sql.sql para criar tabelas e inserir registros iniciais.
 
  #Rotas
