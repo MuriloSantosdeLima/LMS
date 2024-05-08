@@ -1,0 +1,10 @@
+{
+    "name": "murilo/LMS",
+    "autoload": {
+        "psr-4": {
+            "LMS\\": "src/"
+        }
+    },
+
+    "require": { }
+}
